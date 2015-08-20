@@ -1,0 +1,28 @@
+{
+  "name": "lab-bamboo-reporter",
+  "version": "1.0.0",
+  "description": "Atlassian Bamboo Reporter for Hapi's Lab test runner",
+  "main": "lib/bamboo.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PizzaBrandon/lab-bamboo-reporter.git"
+  },
+  "keywords": [
+    "lab",
+    "bamboo",
+    "test",
+    "reporter"
+  ],
+  "author": "Brandon Belvin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PizzaBrandon/lab-bamboo-reporter/issues"
+  },
+  "homepage": "https://github.com/PizzaBrandon/lab-bamboo-reporter#readme",
+  "peerDependencies": {
+    "lab": "^5.15.1"
+  }
+}
