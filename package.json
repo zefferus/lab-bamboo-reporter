@@ -1,6 +1,6 @@
 {
   "name": "lab-bamboo-reporter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Atlassian Bamboo Reporter for Hapi's Lab test runner",
   "main": "lib/bamboo.js",
   "engines": {
