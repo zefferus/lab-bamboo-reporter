@@ -26,7 +26,7 @@ Then, in your `package.json` file, add a devDependency for "lab-bamboo-reporter"
     "devDependencies": {
         ...
         "lab": "^5.0.0",
-        "lab-bamboo-reporter": "^1.0.0"
+        "lab-bamboo-reporter": "^1.1.0"
     }
     
     "scripts": {
