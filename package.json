@@ -1,6 +1,6 @@
 {
   "name": "lab-bamboo-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Atlassian Bamboo Reporter for Hapi's Lab test runner",
   "main": "lib/bamboo.js",
   "engines": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/PizzaBrandon/lab-bamboo-reporter#readme",
   "peerDependencies": {
-    "lab": "^5.15.1"
+    "lab": "^5.0.0"
   }
 }
